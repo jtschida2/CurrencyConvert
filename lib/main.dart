@@ -85,6 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text("Joe's Currency Convertor"),
       ),
       body: Center(
+        //new
         // Center is a layout widget. It takes a single child and positions it
         // in the middle of the parent.
         child: Column(
